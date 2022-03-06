@@ -1,4 +1,3 @@
-import {Card, CardContent} from "@material-ui/core";
 import './id-cart.css';
 import React from "react";
 import QRCode from "react-qr-code";
