@@ -1,8 +1,8 @@
-import './id-cart.css';
+import './id-card.css';
 import React from "react";
 import QRCode from "react-qr-code";
 
-function ID(props) {
+const ID = (props) => {
 
 const {firstName,lastName,address,photoUrl,middleName}  = props.data;
 
